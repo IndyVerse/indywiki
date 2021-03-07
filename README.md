@@ -1,3 +1,5 @@
+Web3Native Tinkerable Wiki
+
 # indywiki
 Inter Planetary, InterPersonal Web3Native Wiki powered by IndieHub, Fission & OrbitDb Wiki in the IndyVerse 
 
