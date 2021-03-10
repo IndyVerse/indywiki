@@ -1,4 +1,4 @@
-Web3Native Tinkerable Wiki
+Web3Native Tinkerable Wiki. You do not go to some place to colaborate using a Wiki. Each has their own Personal Wiki that can be shared and poeple can collaborate within theor owned networks. 
 
 # indywiki
 Inter Planetary, InterPersonal Web3Native Wiki powered by IndieHub, Fission & OrbitDb Wiki
