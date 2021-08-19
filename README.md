@@ -1,4 +1,4 @@
-### IndyWiki: Web3Native Tinkerable Wiki. You do not go to _some place_ to collaborate using a Wiki. 
+### IndyWiki: Web3Native Tinkerable Wiky. You do not go to _some place_ to collaborate using a Wiki. 
 
 > Bootstrap self-organizing writing communities with IndyWiki, the simplest possible constellation of "web native" P2P capabilities to facilitate _deep conversation_, _mutual learning_, and _co-authorship_. Every author has their own _personal_ wiki, which is _shareable_ either publically or privately and _collaborative_ within trusted peer networks, who write and learn together on their own(ed) networks.
 
